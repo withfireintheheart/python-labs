@@ -14,7 +14,6 @@ def is_valid(string: str):
         result = False
 
     return result
-
 	
 if __name__ == '__main__':
     string = input("sentence: ")

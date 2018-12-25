@@ -39,7 +39,6 @@ def encode_morze(x):
     s = "___".join(l)
     return (s)
 
-
 if __name__ == '__main__':
     print(encode_morze('Morze code'))
     print(encode_morze('Prometheus'))

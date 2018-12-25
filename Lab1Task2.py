@@ -1,4 +1,3 @@
-
 def create_verse(x: int, y: int):
     words: str = '-'.join(["la" for i in range(x)])
     verse = ' '.join(([words] * y))

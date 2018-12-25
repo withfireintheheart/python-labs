@@ -1,7 +1,6 @@
 def digit_at(number: int, n: int):
     return number // 10 ** n % 10
 
-	
 if __name__ == '__main__':
     a1 = int(input("a1: "))
     a2 = int(input("a2: "))

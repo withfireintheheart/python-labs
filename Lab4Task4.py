@@ -14,7 +14,6 @@ def file_search(file_tree, filename):
     except TypeError:
         return False
 
-
 		
 if __name__ == '__main__':
     print(file_search(['C:', 'backup.log', 'ideas.txt'], 'ideas.txt'))
