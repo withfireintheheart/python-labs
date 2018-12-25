@@ -5,3 +5,4 @@ def clean_list(list_to_clean):
 
 if __name__ == '__main__':
     print(clean_list([32, 32.1, 32.0, -123]))
+	

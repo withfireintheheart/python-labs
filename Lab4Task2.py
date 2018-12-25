@@ -6,3 +6,4 @@ def counter(a: int, b: int):
 
 if __name__ == '__main__':
     print(counter(123, 45))
+	

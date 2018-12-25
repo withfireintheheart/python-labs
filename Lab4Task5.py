@@ -1,7 +1,6 @@
 def digit_at(number: int, n: int):
     return number // 10 ** n % 10
 
-
 def count_holes(n):
     if isinstance(n, float) | ("." in str(n)):
         return "ERROR"

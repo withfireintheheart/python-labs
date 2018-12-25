@@ -1,6 +1,5 @@
 key_string = "aaaaabbbbbabbbaabbababbaaababaab"
 
-
 def generate_dict():
     baconDict = {}
 

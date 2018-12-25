@@ -1,3 +1,4 @@
+
 def is_palindrom(string: str):
     string = string.lower().replace(" ", "")
     length = len(string)

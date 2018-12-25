@@ -10,3 +10,4 @@ if __name__ == '__main__':
 
     result = sum_ind - sum + n
     print(result)
+	
